@@ -1,4 +1,4 @@
-# SoftwareBasico
+# SoftwareBasico - INF0334
 Repositório dedicado a disciplina de Software Básico do Curso de Ciência da Computação (UFG)
 
 Repository dedicated to the discipline of Basic Software (Altough there's nothing basic about it) - Computer Science (UFG)
